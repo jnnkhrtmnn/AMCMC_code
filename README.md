@@ -1,7 +1,7 @@
-## AMCMC_code
+# AMCMC_code
  Adaptive Markov Chain Monte Carlo MSc dissertation @ University of Warwick
 
-# Abstract
+## Abstract
 
 Several adaptive MCMC algorithms and their specific features and purposes are introduced. Appropriate performance measures as well as challenging target distributions are presented.
 Then, a few experiments are designed to test the performance in specific settings.
